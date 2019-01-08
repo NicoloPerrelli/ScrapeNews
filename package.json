@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/NicoloPerrelli/ScrapeNews/issues"
   },
-  "homepage": "https://github.com/NicoloPerrelli/ScrapeNews#readme"
+  "homepage": "https://github.com/NicoloPerrelli/ScrapeNews#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.4.2"
+  },
+  "devDependencies": {}
 }
